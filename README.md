@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Hello, I'm Allif Alfikri!
+I'm a 17-year-old aspiring developer passionate about building web and mobile applications. I love exploring new technologies and creating efficient, user-friendly solutions.
+🌟 About Me
 
-<!--
-**Ran2410/Ran2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: Allif Alfikri
+Age: 17
+Location: Indonesia
+Interests: Web development, mobile app development, and learning new tech stacks
 
-Here are some ideas to get you started:
+📱 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instagram: https://www.instagram.com/fikri2410284/
+
+🛠️ Tech Stack
+Here are the technologies I work with:
+
+Backend:
+Laravel
+PHP
+MySQL
+
+
+Frontend:
+HTML
+CSS
+Tailwind CSS
+Bootstrap
+JavaScript
+
+
+Mobile Development:
+Flutter
+
+
+
+🚀 What I'm Working On
+
+Building web applications with Laravel and Tailwind CSS
+Creating cross-platform mobile apps with Flutter
+Learning more about full-stack development and database optimization
+
+📈 GitHub Stats
+
+📫 Get in Touch
+Feel free to reach out to me on Instagram or check out my repositories below!
+Let's code something amazing together!
