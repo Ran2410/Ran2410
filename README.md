@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building+modern+web+%26+mobile+apps;Exploring+new+technologies;Creating+efficient+solutions" alt="Typing SVG" />
 </p>
 
+## 🚀 Portfolio
+<p align="center">
+  <a href="https://portofolio-allif-alfikri.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" height="30"/>
+  </a>
+</p>
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
@@ -33,6 +40,14 @@
 - Mobile App Optimization
 
 ## 📫 How to Reach Me
-- Email: [ran241027@gmail.com](mailto:ran241027@gmail.com)
-- Facebook: [fikri2410284](https://fb.com/fikri2410284)
-- Instagram: [@fikri2410284](https://instagram.com/fikri2410284)
+<p align="center">
+  <a href="mailto:ran241027@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  </a>
+  <a href="https://fb.com/fikri2410284" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="30"/>
+  </a>
+  <a href="https://instagram.com/fikri2410284" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30"/>
+  </a>
+</p>
