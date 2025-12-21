@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 Portfolio
-<p align="center">
+<p>
   <a href="https://portofolio-allif-alfikri.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" height="30"/>
   </a>
