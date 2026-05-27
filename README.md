@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allif Alfikri</h1>
-<h3 align="center">A passionate 17-year-old backend developer from Indonesia</h3>
+<h3 align="center">A passionate 18-year-old backend developer from Indonesia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building+modern+web+%26+mobile+apps;Exploring+new+technologies;Creating+efficient+solutions" alt="Typing SVG" />
